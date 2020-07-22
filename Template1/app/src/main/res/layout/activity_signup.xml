@@ -33,7 +33,7 @@
         android:background="@drawable/border2"
         android:ems="10"
         android:hint="Username"
-        android:inputType="text"
+        android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
         android:textAlignment="viewStart"
         app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintLeft_toLeftOf="parent"
